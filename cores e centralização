@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>cores</title>
+    <style>.titulo {
+        color: green;
+      }
+      .sub {
+        color: blue;
+      }
+      </style>
+  </head>
+  <body>
+    <div class="titulo">
+        <center><h1>Ola, meu nome eh Joao Samuel Luy, este eh o titulo</h1></center>
+    </div>
+    <div class="sub">
+        <center><h2>Este é o subtitulo</h2></center>
+    </div>
+  </body>
+</html>
